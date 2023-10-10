@@ -7,7 +7,8 @@ import (
 	// conditions "go-journey/03_conditionals" // 03 - conditionals (if-else, switch-case)
 	//loops "go-journey/04_loops" // 04 - loops
 	//functions "go-journey/05_functions" // 05 - functions
-	arrays "go-journey/06_arrays" // 06 - arrays
+	//arrays "go-journey/06_arrays" // 06 - arrays
+	maps "go-journey/07_maps" // 07 - maps
 )
 
 func main() {
@@ -18,7 +19,8 @@ func main() {
 	// conditions.Conditionals() // 03 - conditionals (if-else, switch-case)
 	//loops.Loops() // 04 - loops
 	//functions.Functions() // 05 - functions
-	arrays.Arrays() // 06 - arrays
+	//arrays.Arrays() // 06 - arrays
+	maps.Maps() // 07 - maps
 
 	fmt.Println("go-journey main method : end")
 }

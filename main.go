@@ -8,7 +8,8 @@ import (
 	//loops "go-journey/04_loops" // 04 - loops
 	//functions "go-journey/05_functions" // 05 - functions
 	//arrays "go-journey/06_arrays" // 06 - arrays
-	maps "go-journey/07_maps" // 07 - maps
+	// maps "go-journey/07_maps" // 07 - maps
+	slices "go-journey/08_slices" // 08 - slices
 )
 
 func main() {
@@ -20,7 +21,8 @@ func main() {
 	//loops.Loops() // 04 - loops
 	//functions.Functions() // 05 - functions
 	//arrays.Arrays() // 06 - arrays
-	maps.Maps() // 07 - maps
+	// maps.Maps() // 07 - maps
+	slices.Slices()
 
 	fmt.Println("go-journey main method : end")
 }

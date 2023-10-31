@@ -9,7 +9,8 @@ import (
 	//functions "go-journey/05_functions" // 05 - functions
 	//arrays "go-journey/06_arrays" // 06 - arrays
 	// maps "go-journey/07_maps" // 07 - maps
-	slices "go-journey/08_slices" // 08 - slices
+	// slices "go-journey/08_slices" // 08 - slices
+	typecasting "go-journey/09_type_casting" // 09 - type casting
 )
 
 func main() {
@@ -22,7 +23,8 @@ func main() {
 	//functions.Functions() // 05 - functions
 	//arrays.Arrays() // 06 - arrays
 	// maps.Maps() // 07 - maps
-	slices.Slices()
+	// slices.Slices() // 08 - slices 
+	typecasting.TypeCasting() // 09 - type casting
 
 	fmt.Println("go-journey main method : end")
 }

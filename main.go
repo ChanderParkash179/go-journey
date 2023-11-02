@@ -11,7 +11,8 @@ import (
 	// maps "go-journey/07_maps" // 07 - maps
 	// slices "go-journey/08_slices" // 08 - slices
 	// typecasting "go-journey/09_type_casting" // 09 - type casting
-	typeinference "go-journey/10_type_inference" // 10 - type inference
+	// typeinference "go-journey/10_type_inference" // 10 - type inference
+	interfaces "go-journey/11_interfaces" // 10 - type inference
 )
 
 func main() {
@@ -20,13 +21,14 @@ func main() {
 	// dv.DeclarationAndVariables() // 01 - declaration and variables
 	// datatypes.DataTypes() // 02 - data types
 	// conditions.Conditionals() // 03 - conditionals (if-else, switch-case)
-	//loops.Loops() // 04 - loops
-	//functions.Functions() // 05 - functions
-	//arrays.Arrays() // 06 - arrays
+	// loops.Loops() // 04 - loops
+	// functions.Functions() // 05 - functions
+	// arrays.Arrays() // 06 - arrays
 	// maps.Maps() // 07 - maps
 	// slices.Slices() // 08 - slices
 	// typecasting.TypeCasting() // 09 - type casting
-	typeinference.TypeInference() // 10 - type inference
+	// typeinference.TypeInference() // 10 - type inference
+	interfaces.Interfaces() // 11 - interfaces
 
 	fmt.Println("go-journey main method : end")
 }

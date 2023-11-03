@@ -12,7 +12,8 @@ import (
 	// slices "go-journey/08_slices" // 08 - slices
 	// typecasting "go-journey/09_type_casting" // 09 - type casting
 	// typeinference "go-journey/10_type_inference" // 10 - type inference
-	interfaces "go-journey/11_interfaces" // 10 - type inference
+	// interfaces "go-journey/11_interfaces" // 11 - interfaces
+	structs "go-journey/12_structs" // 10 - structs
 )
 
 func main() {
@@ -28,7 +29,8 @@ func main() {
 	// slices.Slices() // 08 - slices
 	// typecasting.TypeCasting() // 09 - type casting
 	// typeinference.TypeInference() // 10 - type inference
-	interfaces.Interfaces() // 11 - interfaces
+	// interfaces.Interfaces() // 11 - interfaces
+	structs.Structs() // 12 - structs
 
 	fmt.Println("go-journey main method : end")
 }

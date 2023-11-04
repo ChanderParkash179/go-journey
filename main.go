@@ -13,7 +13,8 @@ import (
 	// typecasting "go-journey/09_type_casting" // 09 - type casting
 	// typeinference "go-journey/10_type_inference" // 10 - type inference
 	// interfaces "go-journey/11_interfaces" // 11 - interfaces
-	structs "go-journey/12_structs" // 10 - structs
+	// structs "go-journey/12_structs" // 12 - structs
+	pointers "go-journey/13_pointers" // 13 - pointers
 )
 
 func main() {
@@ -30,7 +31,8 @@ func main() {
 	// typecasting.TypeCasting() // 09 - type casting
 	// typeinference.TypeInference() // 10 - type inference
 	// interfaces.Interfaces() // 11 - interfaces
-	structs.Structs() // 12 - structs
+	// structs.Structs() // 12 - structs
+	pointers.Pointers() // 13 - pointers
 
 	fmt.Println("go-journey main method : end")
 }

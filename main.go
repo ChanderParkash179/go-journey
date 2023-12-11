@@ -14,7 +14,8 @@ import (
 	// typeinference "go-journey/10_type_inference" // 10 - type inference
 	// interfaces "go-journey/11_interfaces" // 11 - interfaces
 	// structs "go-journey/12_structs" // 12 - structs
-	pointers "go-journey/13_pointers" // 13 - pointers
+	// pointers "go-journey/13_pointers" // 13 - pointers
+	errors "go-journey/14_error" // 14 - errors
 )
 
 func main() {
@@ -32,7 +33,8 @@ func main() {
 	// typeinference.TypeInference() // 10 - type inference
 	// interfaces.Interfaces() // 11 - interfaces
 	// structs.Structs() // 12 - structs
-	pointers.Pointers() // 13 - pointers
+	// pointers.Pointers() // 13 - pointers
+	errors.Errors() // 14 - errors
 
 	fmt.Println("go-journey main method : end")
 }

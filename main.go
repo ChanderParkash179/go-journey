@@ -5,9 +5,9 @@ import (
 	// dv "go-journey/01_declaration_variables" // 01 - declaration and variables
 	// datatypes "go-journey/02_datatypes" // 02 - data types
 	// conditions "go-journey/03_conditionals" // 03 - conditionals (if-else, switch-case)
-	//loops "go-journey/04_loops" // 04 - loops
-	//functions "go-journey/05_functions" // 05 - functions
-	//arrays "go-journey/06_arrays" // 06 - arrays
+	// loops "go-journey/04_loops" // 04 - loops
+	// functions "go-journey/05_functions" // 05 - functions
+	// arrays "go-journey/06_arrays" // 06 - arrays
 	// maps "go-journey/07_maps" // 07 - maps
 	// slices "go-journey/08_slices" // 08 - slices
 	// typecasting "go-journey/09_type_casting" // 09 - type casting
@@ -15,7 +15,8 @@ import (
 	// interfaces "go-journey/11_interfaces" // 11 - interfaces
 	// structs "go-journey/12_structs" // 12 - structs
 	// pointers "go-journey/13_pointers" // 13 - pointers
-	errors "go-journey/14_error" // 14 - errors
+	// errors "go-journey/14_error" // 14 - errors
+	go_routines "go-journey/15_go_routines" // 15 - go routines
 )
 
 func main() {
@@ -34,7 +35,8 @@ func main() {
 	// interfaces.Interfaces() // 11 - interfaces
 	// structs.Structs() // 12 - structs
 	// pointers.Pointers() // 13 - pointers
-	errors.Errors() // 14 - errors
+	// errors.Errors() // 14 - errors
+	go_routines.GoRoutines() // 15 - go routines
 
 	fmt.Println("go-journey main method : end")
 }

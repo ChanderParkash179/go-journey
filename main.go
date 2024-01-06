@@ -16,7 +16,8 @@ import (
 	// structs "go-journey/12_structs" // 12 - structs
 	// pointers "go-journey/13_pointers" // 13 - pointers
 	// errors "go-journey/14_error" // 14 - errors
-	go_routines "go-journey/15_go_routines" // 15 - go routines
+	// go_routines "go-journey/15_go_routines" // 15 - go routines
+	channels "go-journey/16_channels" // 16 - channels
 )
 
 func main() {
@@ -36,7 +37,8 @@ func main() {
 	// structs.Structs() // 12 - structs
 	// pointers.Pointers() // 13 - pointers
 	// errors.Errors() // 14 - errors
-	go_routines.GoRoutines() // 15 - go routines
+	// go_routines.GoRoutines() // 15 - go routines
+	channels.Channels() // 16 - channels
 
 	fmt.Println("go-journey main method : end")
 }
